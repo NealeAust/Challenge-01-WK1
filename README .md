@@ -1,12 +1,14 @@
-#Project Title
+# HORISEON Webpage
+
+## Project Title
 
 Refactoring of HTML and CSS code of the Horiseon marketing agency webpage.
 
-#Horiseon Webpage
+## Horiseon Webpage
 
 The webpage provides a brief description of the services the company provides and benefits to the customer. It contains a Navigation Bar, Hero Image, a separate card (three) for each service provided and an additional card listing benefits. See link and screenshot below.
 
-#Project Description
+## Project Description
 
 The objective of this project is to modify the HTML source code and CSS entries pertaining to the webpage, without changing the application's appearance and functionality. This will incorporate improving the design and structure of both the HTML source code and stylesheet.
 
@@ -24,11 +26,11 @@ The steps taken to perform code refactoring include but are not limited to the f
 
 By examining code, identifying problems and/or potential improvements, making the modifications whilst monitoring the impact on the web application. This task enforced me to appreciate the importance of being methodical, recording each change made, and taking due care.
 
-#Installation
+## Installation
 
 N/A
 
-#Usage
+## Usage
 
 The Horiseon Webpage is a fully functional web application with all navigation links working correctly. Accessibility has been drastically improved by adding a title with a self-created logo. By having HTML source code that consists of only sematic HTML elements that describe their meaning to both the browser and the developer, the coding performs better and is easier to work with.
 
@@ -38,7 +40,7 @@ The project created a web application with more readable code, reduced complexit
 
 While making the changes to HTML source code and/or stylesheet in Visual Studio Code, I was able to use the functions 'Open with LIVE Server' and 'Inspect' which enabled me to view the impact on the web application's appearance in real time, and test the navigation links on a regular basis.  
 
-#Deployed Application and Screenshot
+## Deployed Application and Screenshot
 
 Link to deployed applicated:
 
@@ -47,11 +49,11 @@ Screenshot:
 
 ![Horiseon](https://user-images.githubusercontent.com/115671306/203482214-9c45469e-7f12-41c9-bdff-177905a192b2.png)
 
-#Credits
+## Credits
 
 N/A
 
-##Licence
+## Licence
 
 
 
