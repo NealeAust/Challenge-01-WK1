@@ -14,18 +14,16 @@ body {
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #5a53c4;
     color: #ffffff;
+    
 }
 /* Group selector */
 header h1 {
     display: inline-block;
-    font-size: 48px;
-}
-
-/* ID selector */
-#seo {
-    color: #d9dcd6;
+    font-size: 50px;
+    color: White
+    letter-spacing: 2px;
 }
 
 /* <header> including navigation links */
@@ -34,9 +32,11 @@ header nav {
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 25px;
+    font-weight: bold;
     color: #ffffff;
-    text-decoration: none;
+    text-shadow: 2px 2px black;
+    
  }
 /* Group selector */
 header nav ul {
@@ -60,81 +60,74 @@ p {
 
 /* Class selector */
 .hero {
-    height: 800px;
+    
+    height: 350px;
     width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../images/Neale.jpg");
     background-size: cover;
     background-position: center;
-}
+    }
 
-/* Section class="cards"cover all service cards */
-/* class="card" for each service card(3)*/
-/* Combined repetitive entries to reduce number from 12 to 6 */
-.cards {
-    width: 75%;
+
+
+.about-me {
+    height:300px;
+    width: 100%;
+    padding:1px;
+    border:1px;
+    display: in-line block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    float: left;  
+    background-color:white;
+ }
+
+   .ab1-box {
+    height:300px;
+    width:20%;
+    padding:5px;
+    border:1px;
+    text-align: center;
+    font-size: 30cm;
+    justify-content:centre;
+    margin:1px;
+    display: in-line block;
+    float: left;
+    Background-color: yellow;
+    float: left;
+    }
+
+    .ab2-box {
+    height:300px;
+    width:80%;
+    padding:px;
+    border:1px;
+    margin:1px;
+    display: in-line block;
+    float: left;
+    Background-color: green;
+    float: right;
+    }
+   #dabout-me p{
+    height:200px
+    width: 100%;
     display: inline-block;
-    margin-left: 20px;
-   }
+    margin-left: 20%;
+    margin-bottom: 20px
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    Background-color: white;
+    color: #ffffff;
 
-.card {
+
+#dabout me{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    Background-color: white;
     color: #ffffff;
-}
-
-/* Group selector */
-.card img {
-    max-height: 200px;
-}
-
-.card h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* Class selector */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.card-benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-    margin-bottom: 32px;
-    color: #ffffff;
-
-}
-/* Group selector */
-/* Combined repetitive entries to reduce number from 9 to 3 */
-.card-benefits h3 {
-    margin: 10px;
-    text-align: center;
-}
-
-.card-benefits p {
-    margin-bottom: 30px;
-}
-
-.card-benefits img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 
 /* Type selector */
